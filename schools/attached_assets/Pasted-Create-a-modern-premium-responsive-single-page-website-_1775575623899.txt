@@ -1,0 +1,69 @@
+Create a modern premium responsive, single-page website for a school offering education from Nursery to Grade 10.
+Design Style:
+Clean, premium, and professional school branding
+Soft gradient backgrounds with education-themed visuals
+Use card-based UI with rounded corners and subtle shadows
+Color palette: Orange, White, and Light Yellow (trust + education feel)
+Fully mobile responsive
+Sections Required:
+Hero Section:
+School name (dynamic placeholder)
+Tagline: "Building Bright Futures from Nursery to Grade 10"
+Call-to-action buttons: "Enroll Now" and "Contact Us"
+Background image of happy students or school campus
+About Us:
+Brief introduction of the school
+Mission and vision statements
+Highlight values like discipline, creativity, and excellence
+Classes / Academics:
+Clearly show classes from Nursery to Grade 10
+Use grid or cards for each group:
+Pre-Primary (Nursery, LKG, UKG)
+Primary (Grade 1–5)
+Middle (Grade 6–8)
+Secondary (Grade 9–10)
+Features / Facilities:
+Smart Classrooms
+Experienced Teachers
+Digital Learning (ERP + LMS)
+Library & Sports
+Safe Campus
+Use icons with short descriptions
+Why Choose Us:
+4–6 strong points like:
+Holistic Development
+Modern Teaching Methods
+Strong Academic Results
+Parent Communication System
+Gallery:
+Image grid showing classrooms, events, activities
+Testimonials:
+Parent and student reviews in card format
+Admission Section:
+Admission open banner
+Simple form fields:
+Student Name
+Class Applying For
+Parent Contact
+CTA: "Apply Now"
+Contact Section:
+School address
+Phone number
+Email
+Embedded Google Map
+Footer:
+Quick links
+Social media icons
+Copyright text
+Special Feature:
+Add a floating WhatsApp chat icon at the bottom right corner
+On click, it should open WhatsApp chat with a predefined message:
+"Hello, I would like to know more about admissions."
+Technical Requirements:
+Smooth scrolling navigation
+Sticky navbar
+Lightweight and fast loading
+SEO-friendly structure
+Optional Enhancements:
+Add subtle animations on scroll
+Add hover effects on cards and buttons
